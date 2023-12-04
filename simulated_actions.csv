@@ -1,0 +1,101 @@
+﻿ID,County,Device IP,Device Type,Malware Attack Attempt,Recommended Action
+1,Anoka,234.176.33.246,Echo device,No,No Action
+2,Carver,115.191.154.74,Smart Fridge,No,No Action
+3,Chisago,53.247.63.89,IOT Home Lock,No,No Action
+4,Dakota,71.245.168.3,Echo device,No,No Action
+5,Hennepin,176.177.175.133,Smart Fridge,No,No Action
+6,Isanti,241.193.164.13,IOT Home Lock,No,No Action
+7,Ramsey,227.142.5.69,Echo device,No,No Action
+8,Scott,179.128.75.67,Smart Fridge,No,No Action
+9,Sherburne,234.41.233.116,IOT Home Lock,No,No Action
+10,Washington,183.74.105.221,Echo device,No,No Action
+11,Wright,69.1.134.48,Smart Fridge,No,No Action
+12,Anoka,76.24.95.124,IOT Home Lock,No,No Action
+13,Carver,182.66.131.126,Echo device,No,No Action
+14,Chisago,146.241.230.209,Smart Fridge,No,No Action
+15,Dakota,67.124.166.207,IOT Home Lock,No,No Action
+16,Hennepin,174.6.24.255,Echo device,No,No Action
+17,Isanti,105.73.67.8,Smart Fridge,No,No Action
+18,Ramsey,73.185.57.29,IOT Home Lock,No,No Action
+19,Scott,8.102.24.81,Echo device,No,No Action
+20,Sherburne,131.128.217.132,Smart Fridge,No,No Action
+21,Washington,211.20.180.177,IOT Home Lock,No,No Action
+22,Wright,142.220.10.166,Echo device,No,No Action
+23,Anoka,181.227.79.205,Smart Fridge,No,No Action
+24,Carver,139.192.181.97,IOT Home Lock,No,No Action
+25,Chisago,112.170.166.157,Echo device,No,No Action
+26,Dakota,91.30.65.64,Smart Fridge,No,No Action
+27,Hennepin,20.114.146.127,IOT Home Lock,No,No Action
+28,Isanti,19.50.138.184,Echo device,No,No Action
+29,Ramsey,78.45.140.146,Smart Fridge,No,No Action
+30,Scott,226.217.221.127,IOT Home Lock,No,No Action
+31,Sherburne,76.254.117.192,Echo device,No,No Action
+32,Washington,21.162.217.119,Smart Fridge,No,No Action
+33,Wright,21.39.72.152,IOT Home Lock,No,No Action
+34,Anoka,116.230.188.232,Echo device,No,No Action
+35,Carver,182.193.85.174,Smart Fridge,No,No Action
+36,Chisago,131.84.192.130,IOT Home Lock,No,No Action
+37,Dakota,236.178.63.178,Echo device,No,No Action
+38,Hennepin,179.229.9.184,Smart Fridge,No,No Action
+39,Isanti,63.203.106.193,IOT Home Lock,No,No Action
+40,Ramsey,173.66.98.66,Echo device,No,No Action
+41,Scott,245.45.2.207,Smart Fridge,No,No Action
+42,Sherburne,216.171.137.1,IOT Home Lock,No,No Action
+43,Washington,6.52.228.87,Echo device,No,No Action
+44,Wright,254.170.228.64,Smart Fridge,No,No Action
+45,Anoka,230.6.38.61,IOT Home Lock,No,No Action
+46,Carver,36.142.242.120,Echo device,No,No Action
+47,Chisago,120.157.207.116,Smart Fridge,No,No Action
+48,Dakota,85.208.170.19,IOT Home Lock,No,No Action
+49,Hennepin,80.125.208.250,Echo device,No,No Action
+50,Isanti,100.32.82.195,Smart Fridge,No,No Action
+51,Anoka,234.176.33.246,Echo device,Yes,log user out of echo
+52,Carver,115.191.154.74,Smart Fridge,Yes,Disconnect and message user
+53,Chisago,53.247.63.89,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+54,Dakota,71.245.168.3,Echo device,Yes,log user out of echo
+55,Hennepin,176.177.175.133,Smart Fridge,Yes,Disconnect and message user
+56,Isanti,241.193.164.13,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+57,Ramsey,227.142.5.69,Echo device,Yes,log user out of echo
+58,Scott,179.128.75.67,Smart Fridge,Yes,Disconnect and message user
+59,Sherburne,234.41.233.116,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+60,Washington,183.74.105.221,Echo device,Yes,log user out of echo
+61,Wright,69.1.134.48,Smart Fridge,Yes,Disconnect and message user
+62,Anoka,76.24.95.124,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+63,Carver,182.66.131.126,Echo device,Yes,log user out of echo
+64,Chisago,146.241.230.209,Smart Fridge,Yes,Disconnect and message user
+65,Dakota,67.124.166.207,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+66,Hennepin,174.6.24.255,Echo device,Yes,log user out of echo
+67,Isanti,105.73.67.8,Smart Fridge,Yes,Disconnect and message user
+68,Ramsey,73.185.57.29,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+69,Scott,8.102.24.81,Echo device,Yes,log user out of echo
+70,Sherburne,131.128.217.132,Smart Fridge,Yes,Disconnect and message user
+71,Washington,211.20.180.177,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+72,Wright,142.220.10.166,Echo device,Yes,log user out of echo
+73,Anoka,181.227.79.205,Smart Fridge,Yes,Disconnect and message user
+74,Carver,139.192.181.97,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+75,Chisago,112.170.166.157,Echo device,Yes,log user out of echo
+76,Dakota,91.30.65.64,Smart Fridge,Yes,Disconnect and message user
+77,Hennepin,20.114.146.127,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+78,Isanti,19.50.138.184,Echo device,Yes,log user out of echo
+79,Ramsey,78.45.140.146,Smart Fridge,Yes,Disconnect and message user
+80,Scott,226.217.221.127,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+81,Sherburne,76.254.117.192,Echo device,Yes,log user out of echo
+82,Washington,21.162.217.119,Smart Fridge,Yes,Disconnect and message user
+83,Wright,21.39.72.152,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+84,Anoka,116.230.188.232,Echo device,Yes,log user out of echo
+85,Carver,182.193.85.174,Smart Fridge,Yes,Disconnect and message user
+86,Chisago,131.84.192.130,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+87,Dakota,236.178.63.178,Echo device,Yes,log user out of echo
+88,Hennepin,179.229.9.184,Smart Fridge,Yes,Disconnect and message user
+89,Isanti,63.203.106.193,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+90,Ramsey,173.66.98.66,Echo device,Yes,log user out of echo
+91,Scott,245.45.2.207,Smart Fridge,Yes,Disconnect and message user
+92,Sherburne,216.171.137.1,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+93,Washington,6.52.228.87,Echo device,Yes,log user out of echo
+94,Wright,254.170.228.64,Smart Fridge,Yes,Disconnect and message user
+95,Anoka,230.6.38.61,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+96,Carver,36.142.242.120,Echo device,Yes,log user out of echo
+97,Chisago,120.157.207.116,Smart Fridge,Yes,Disconnect and message user
+98,Dakota,85.208.170.19,IOT Home Lock,Yes,"Notify security team, user, disable unlock attempts"
+99,Hennepin,80.125.208.250,Echo device,Yes,log user out of echo
+100,Isanti,100.32.82.195,Smart Fridge,Yes,Disconnect and message user
